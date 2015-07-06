@@ -1,6 +1,10 @@
 # APIWebAppDesign - Enterprise People Inc
 Enterprise People Inc  - Design Prototype for GSA 18F RFQ
 
+[Hosted Design Prototype] (https://fast-bastion-6904.herokuapp.com)
+
+[Source Code location] (https://github.com/enterprise-people-inc/APIWebAppDesign)
+
 Product Backlog: On Ralley, final snapshot in [Documents] (https://github.com/enterprise-people-inc/APIWebAppDesign/tree/master/documents)
 
 ## Approach

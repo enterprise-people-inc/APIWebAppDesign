@@ -29,7 +29,7 @@ Here we are showcasing the Design Prototype for Pool One. We have used paper bas
 - [x] npm install
 - [x] bower install
 - [x] grunt build
-- [x] grunt serve (http://localhost:9000)
+- [x] node web.js (http://localhost:5000)
 
 ##License
 

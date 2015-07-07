@@ -25,7 +25,7 @@ angular.module('searchPrototypeApp')
         function buildQuery($scope) {
             var str = "";
             if ($scope.searchParam) {
-                str += "+AND+(" + $scope.searchParam + ")";
+                str += "(" + $scope.searchParam + ")";
             }
             return str;
         }

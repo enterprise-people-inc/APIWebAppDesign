@@ -37,5 +37,5 @@ Here we are showcasing the Design Prototype for Pool One. We have used paper bas
 
 ##License
 
-APIWebApp is licensed under the MIT license. For details, see the LICENSE file in our GitHub repository.
+APIWebAppDesign is licensed under the MIT license. For details, see the LICENSE file in our GitHub repository.
 
